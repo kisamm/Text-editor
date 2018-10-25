@@ -1,0 +1,10 @@
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor textu.csprojResolveAssemblyReference.cache
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor_textu.Form1.resources
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor_textu.Properties.Resources.resources
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor textu.csproj.GenerateResource.Cache
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor textu.csproj.CoreCompileInputs.cache
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Debug\edytor textu.exe.config
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Debug\edytor textu.exe
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Debug\edytor textu.pdb
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor textu.exe
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Debug\edytor textu.pdb
