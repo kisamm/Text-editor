@@ -1,0 +1,20 @@
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Release\edytor textu.exe.config
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Release\edytor textu.exe
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\bin\Release\edytor textu.pdb
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor_textu.Form1.resources
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor_textu.Properties.Resources.resources
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor textu.csproj.GenerateResource.Cache
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor textu.csproj.CoreCompileInputs.cache
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor textu.exe
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor textu.pdb
+C:\Users\Mamunia\source\repos\edytor textu\edytor textu\obj\Release\edytor textu.csprojResolveAssemblyReference.cache
+C:\Users\kisam\Desktop\edytor textu\edytor textu\bin\Release\edytor textu.exe.config
+C:\Users\kisam\Desktop\edytor textu\edytor textu\bin\Release\edytor textu.exe
+C:\Users\kisam\Desktop\edytor textu\edytor textu\bin\Release\edytor textu.pdb
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor textu.csprojResolveAssemblyReference.cache
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor_textu.Form1.resources
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor_textu.Properties.Resources.resources
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor textu.csproj.GenerateResource.Cache
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor textu.csproj.CoreCompileInputs.cache
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor textu.exe
+C:\Users\kisam\Desktop\edytor textu\edytor textu\obj\Release\edytor textu.pdb
